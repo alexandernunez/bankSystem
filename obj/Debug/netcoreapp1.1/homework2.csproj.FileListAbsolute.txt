@@ -1,0 +1,8 @@
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework2\bin\Debug\netcoreapp1.1\homework2.deps.json
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework2\bin\Debug\netcoreapp1.1\homework2.runtimeconfig.json
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework2\bin\Debug\netcoreapp1.1\homework2.runtimeconfig.dev.json
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework2\bin\Debug\netcoreapp1.1\homework2.dll
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework2\bin\Debug\netcoreapp1.1\homework2.pdb
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework2\obj\Debug\netcoreapp1.1\homework2.AssemblyInfo.cs
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework2\obj\Debug\netcoreapp1.1\homework2.dll
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework2\obj\Debug\netcoreapp1.1\homework2.pdb
